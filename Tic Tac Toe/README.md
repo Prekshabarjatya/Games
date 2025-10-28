@@ -82,6 +82,3 @@ This project is a browser-based Tic Tac Toe game created with HTML, CSS, and Jav
 
 Contributions welcome. Open an issue or submit a pull request with improvements or bug fixes.
 
-## License
-
-Add a license of your choice (e.g., MIT). I can add an MIT LICENSE file if you want.
